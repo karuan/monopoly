@@ -1,6 +1,6 @@
 function main(){
 
-   console.log("Hello Monopoly World!!!!");
+   console.log("Charizard says hello world!");
    var game = new gameBoard();
    var i;
    for (i=0;i<40; i++){
